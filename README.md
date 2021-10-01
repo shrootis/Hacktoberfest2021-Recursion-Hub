@@ -55,7 +55,7 @@ Write the solution of any **recursive problem** in any language of your choice. 
 - [x] [Factorial](./Code/Factorial.java)
 - [x] [StringCreation](./Code/StringCreation.cpp)
 - [x] [GCD_LCM](./Code/GCD_LCM.java)
-- [x] [Strobogrammatic number] (./Code/Strobogrammatic number) 
+- [x] [Strobogrammatic number](./Code/Strobogrammatic number) 
 
 # Rules
 
